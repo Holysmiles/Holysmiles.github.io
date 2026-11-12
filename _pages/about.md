@@ -20,6 +20,7 @@ My research interests include **Multimodal Learning**, **Object Detection**, **A
 # 🔥 News
 - *2026.09*: &nbsp;🎓 开始在西安电子科技大学通信工程学院攻读硕士学位。
 - *2026.06*: &nbsp;🎓 从河南大学软件学院本科毕业。
+- *2026.01*: &nbsp;🎉 发明专利《基于先验强度约束的半主观HER2评分方法及装置》获国家知识产权局授权（专利号：ZL 2025 1 1630752.0）。
 
 # 📝 Publications 
 
@@ -40,6 +41,12 @@ My research interests include **Multimodal Learning**, **Object Detection**, **A
 
 - [Paper Title](https://link), Author A, **Hao Liu**, Author C, **Conference 2026**
 -->
+
+# 📜 Patents
+
+- **基于先验强度约束的半主观HER2评分方法及装置**
+  何永红, 黄强, **刘豪**, 张玉, 刘弈卿, 申志远, 王子晗
+  专利号: ZL 2025 1 1630752.0 \| 授权公告号: CN 121074052 B \| 授权公告日: 2026.01.16 \| 专利权人: 金凤实验室
 
 # 🎖 Honors and Awards
 - *2026* 待补充
